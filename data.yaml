@@ -1,0 +1,8 @@
+- name: Andre
+  class: 1
+- name: Agus
+  class: 2
+  hobby:
+    - Swimming
+    - Fishing
+    - Sleep
